@@ -1,0 +1,11 @@
+# Local configuration and database
+.env
+sales.db
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+
+# IDE files
+.idea/
